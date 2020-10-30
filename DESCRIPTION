@@ -1,0 +1,15 @@
+Package: rlabutils
+Type: Package
+Title: Various quality-of-life functions
+Version: 1.0
+Depends: data.table,
+  stringr,
+  lubridate,
+  beeswarm
+Author: Jean-Philippe Rasigade
+Maintainer: Jean-Philippe Rasigade <jean-philippe.rasigade@univ-lyon1.fr>
+Description: Common functions related to plotting, I/O with SVG, PDF and Excel files and common model manipulations.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
